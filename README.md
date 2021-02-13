@@ -1,5 +1,7 @@
 # 근전도 센서를 활용한 의사전달 어플리케이션
 
+
+
 # 근전도 센서를 통해 수집한 데이터
 ![image](https://user-images.githubusercontent.com/58021968/107849178-e2f91580-6e3c-11eb-9ff5-54fbabb1320f.png)
 
