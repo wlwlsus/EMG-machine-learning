@@ -20,6 +20,3 @@
 
 # 학습률과 손실율 그래프
 ![image](https://user-images.githubusercontent.com/58021968/107849111-5baba200-6e3c-11eb-81ec-5b9f9acf8b71.png)
-
-
-[![Github Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://wlwlsus.github.io/)](https://wlwlsus.github.io/)
