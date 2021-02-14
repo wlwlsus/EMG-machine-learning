@@ -1,4 +1,4 @@
-# 근전도 센서를 활용한 의사전달 어플리케이션
+# 근전도 센서를 활용한 의사전달 어플리케이션:dizzy:
 
 ### Flow Chart
 ![c1](https://user-images.githubusercontent.com/58021968/107882341-0cdd3580-6f2c-11eb-839e-6d80f3b12779.PNG)
