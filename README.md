@@ -21,7 +21,7 @@
 ## 학습진행
 ![image](https://user-images.githubusercontent.com/58021968/107849206-1e93df80-6e3d-11eb-95ea-6005c260dde2.png)
 
-## Model Summary - 
+## Model Summary
 - layer 활성화 함수 -> relu, sigmoid
 - 최적화 함수 -> adam
 - 손실 함수 -> binary_crossentropy
